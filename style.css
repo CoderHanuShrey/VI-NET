@@ -35,14 +35,14 @@ a {
 	position: relative;
 }
 .header {
-   background: rgba(0, 0, 0, 0) url("../img/header.jpg") repeat fixed center 0 / cover  ;
+   background: rgba(0, 0, 0, 0) url("header.jpg") repeat fixed center 0 / cover  ;
     color: #fff;
     height: 100%;
     overflow: hidden;
     transition: all 0.35s ease 0s;
 }
 .header2 {
-   background: rgba(0, 0, 0, 0) url("../img/header2.jpg") repeat fixed center bottom / cover  ;
+   background: rgba(0, 0, 0, 0) url("header2.jpg") repeat fixed center bottom / cover  ;
     color: #fff;
     height: 100%;
     overflow: hidden;
@@ -194,7 +194,7 @@ transition: all 0.35s ease 0s;
 /*----------- team ------------*/
 
 #team {
-   background: url("../img/team-bg.jpeg") no-repeat scroll center bottom / cover ;
+   background: url("team-bg.jpeg") no-repeat scroll center bottom / cover ;
     color: black;
     overflow: hidden;
 	padding:100px 0 220px;
@@ -277,7 +277,7 @@ margin:20px 0 0 0px;
 /*----------- for box ------------*/
 .for-box
 {
- background: url("../img/services-bg.jpg") no-repeat scroll center bottom / cover ;
+ background: url("services-bg.jpg") no-repeat scroll center bottom / cover ;
 padding-top:200px;
 background-attachment:fixed;
 padding-bottom:100px;
@@ -593,7 +593,7 @@ height:320px;
     background: rgba(0, 0, 0, 0) none repeat scroll 0 0 !important;
 }
 .blog-header {
-    background: rgba(0, 0, 0, 0) url("../img/header4.jpg") repeat fixed center bottom / cover ;
+    background: rgba(0, 0, 0, 0) url("header4.jpg") repeat fixed center bottom / cover ;
     color: #fff;
     overflow: hidden;
     padding: 300px 0 150px;
@@ -894,7 +894,7 @@ blockquote {
 /*----------- contact ------------*/
 #contact
 {
- /*background: url("../img/team-bg.jpeg") no-repeat scroll center center / cover  ;*/
+ /*background: url("team-bg.jpeg") no-repeat scroll center center / cover  ;*/
  background-color: rgb(139, 188, 204);
     color: Black;
     overflow: hidden;
